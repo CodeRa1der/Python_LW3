@@ -1,1 +1,2 @@
 Fix in 3.txt
+My fix in 3.txt
